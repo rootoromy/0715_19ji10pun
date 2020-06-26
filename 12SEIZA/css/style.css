@@ -1,6 +1,7 @@
 @import url(css/sanitize.css);
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
 
+
 body{
     background-color:blue;
     padding: 30px;
@@ -66,9 +67,8 @@ section div{
 .description img{
     transition-property: opacity;
     transition-duration: 1s;
-    
 }
 
-.href :hover{
-    background-color: cornflowerblue;
-}
+
+
+

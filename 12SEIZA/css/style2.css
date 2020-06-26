@@ -1,0 +1,32 @@
+@import url(css/sanitize.css);
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+.title {
+    background-color: lightgrey;
+    margin: 10px;
+    padding: 10px;
+}
+
+header h1 {
+    font-size: 20px;
+    text-align: center;
+}
+
+header img {
+    float: left;
+}
+
+.content{
+    margin: auto;
+    padding: auto;
+    background-color: #ffffff;
+    max-width: 1200px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: mediumvioletred;
+}
+
+.content img{
+    float: left;
+    
+}
