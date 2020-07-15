@@ -21,12 +21,43 @@ header img {
     padding: auto;
     background-color: #ffffff;
     max-width: 1200px;
+    height: 500px;
     border-style: solid;
     border-width: 5px;
-    border-color: mediumvioletred;
 }
 
-.content img{
+.cont1 img{
     float: left;
-    
+    margin: auto;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: auto;
+}
+
+.cont2 {
+    margin: 0px;
+    padding: 0px;
+    text-align: left;
+    display: inline-block;
+}
+
+.zentaiun p {
+    display: inline-block;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.zentaiun h5 {
+    margin-top: 1px;
+    margin-bottom: 15px;
+}
+
+.zentaiun li {
+    font-size: 20px;
+}
+
+.cont2 ul{
+    margin: 0px;
+    padding: 0px;
 }
